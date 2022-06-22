@@ -24,7 +24,5 @@
 <img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">  
 </div><br/>
 
-Apaixonado por tecnologia e por desafios.
-
 ## Contato:
 - lepoldino1@hotmail.com
