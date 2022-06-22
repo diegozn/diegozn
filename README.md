@@ -1,8 +1,10 @@
 ### Olá eu sou o Diego Silva 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-silva-798b49213/)
-
-![Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=diegozn&show_icons=true&theme=dracula)
+<div style="display: inline_block">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegozn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegozn&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Tecnologias que eu uso no meu dia:
 
